@@ -1,0 +1,23 @@
+table {
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+tbody {
+color: #000;
+}
+
+table th, table td {
+padding: 5px 10px;
+border: 1px solid #000000;
+}
+
+table th {
+background: #CCC;
+font: bold 14px Arial, Helvetica, sans-serif;
+color:#333;
+}
+
+table tr {
+font: normal 14px Tahoma, Geneva, sans-serif;
+}
